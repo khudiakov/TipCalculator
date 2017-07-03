@@ -2,7 +2,7 @@
 
 Android App for Calculating Tips.
 
-Base on Example App from Course - [CAAD002X Android App Development for Beginners](https://courses.edx.org/courses/course-v1:GalileoX+CAAD002X+1T2017/info)
+Based on Example App from Course - [CAAD002X Android App Development for Beginners](https://courses.edx.org/courses/course-v1:GalileoX+CAAD002X+1T2017/info)
 
 ![App Screenshot](/.md/screenshot.jpg)
 
