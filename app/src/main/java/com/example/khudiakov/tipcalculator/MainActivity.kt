@@ -14,7 +14,7 @@ class MainActivity : AppCompatActivity() {
     val DEFAULT_TIP_PERCENTAGE = 10
     val REGULAR_TIP_PERCENTAGE = 5
     val EXCELLENT_TIP_PERCENTAGE = 20
-    val ACTIVE_COLOR by lazy { parseColor("#FFF176") }
+    val ACTIVE_COLOR by lazy { parseColor("#FFD600") }
 
     var totalBillAmount = 0.0
 

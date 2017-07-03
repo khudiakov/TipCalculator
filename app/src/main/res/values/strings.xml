@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Tip Calculator</string>
+    <string name="app_name">Tip &amp; Tiper</string>
 
     <string name="main.msg.bill_amount">Bill Amount</string>
     <string name="main.hint.bill_amount">Enter Bill Amount Here</string>
